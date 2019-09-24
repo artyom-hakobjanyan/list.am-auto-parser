@@ -1,0 +1,1 @@
+# list.am-auto-parser
